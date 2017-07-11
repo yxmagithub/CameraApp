@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ceamera2Demo</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="capture_label">CAPTURE</string>
+    <string name="camera_already_open">Warning: Camera already opened</string>
+    <string name="implementation_pending">Stop! Implementation is Pending</string>
+    <string name="configuration_failure">Error: Configuration Failed</string>
+    <string name="camera_comm_disconnected">W: Camera Linkage Disconnected</string>
+    <string name="camera_open_failed">W: Camera Open Failed</string>
+    <string name="filesaving_occurring">W: File Saving Occurring</string>
+    <string name="filesaving_done">W:File Saving Done</string>
+    <string name="accesstocamera_denied">W:Access to Camera is Denied</string>
+    <string name="capture_occurring">W: Capture is Occurring</string>
+</resources>
